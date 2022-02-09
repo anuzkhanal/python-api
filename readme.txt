@@ -43,10 +43,12 @@ Steps to run the project
     - python manage.py migrate
 - create super user
     - python manage.py createsuperuser
-- unit testing
-    - python manage.py test 
 - start the project 
     - python manage.py runserver
+
+
+- unit testing
+    - python manage.py test 
 - check endpoints docs
     - http://127.0.0.1:8000/admin/
         -login using super user 
